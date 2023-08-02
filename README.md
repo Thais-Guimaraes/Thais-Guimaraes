@@ -1,6 +1,6 @@
 ### 
 
-![gif](https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/Pink%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
+![gif](https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/profile.gif)
 
 
 <!--
