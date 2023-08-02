@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="gif" target="blank"><img align = "center" src="https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/Pink%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif
-" height="100" /></a>
-
+![gif]([https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif](https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/Pink%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
 
 <!--
 **Thais-Guimaraes/Thais-Guimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
