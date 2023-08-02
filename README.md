@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a src="https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/Pink%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif" /></a>
+<a href="gif" target="blank"><img  src="https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/Pink%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif
+" height="100" /></a>
 
 
 <!--
