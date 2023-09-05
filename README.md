@@ -1,6 +1,6 @@
 ### 
 
-![gif](https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/profile.gif)
+![gif](https://github.com/Thais-Guimaraes/Thais-Guimaraes/blob/main/GITHUBPROFILE.gif)
 
 
 <!--
